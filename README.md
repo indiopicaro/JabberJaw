@@ -1,3 +1,4 @@
 # JabberJaw
 Introducción
-![image](https://user-images.githubusercontent.com/103136876/200192286-44b660f6-3234-4448-bd99-31a211335afc.png)
+
+![s-l500](https://user-images.githubusercontent.com/103136876/200192669-73cf2821-b5cb-43b6-97fc-d6e4e6e7033a.jpg)
