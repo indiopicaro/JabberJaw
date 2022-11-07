@@ -2,9 +2,8 @@
 ## Introducción
 El JabberJaw es un intento de clon del shark jack. Conocido artefacto creado y comercializado por la empresa de [Hak5](https://hak5.org)
 
-![s-l500](https://user-images.githubusercontent.com/103136876/200192669-73cf2821-b5cb-43b6-97fc-d6e4e6e7033a.jpg)
+![sharkjack](https://user-images.githubusercontent.com/103136876/200296239-2f6ecb3a-6c20-4fe4-8333-6b481b04b7f8.jpg)
 
-![HTB1lIWuHXXXXXXZXpXXq6xXFXXXD](https://user-images.githubusercontent.com/103136876/200201614-5086b1c1-cf90-41b4-a5b9-f1f2b603878f.jpg)
 
 
 A5-V11 ---> https://openwrt.org/toh/unbranded/a5-v11
