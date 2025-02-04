@@ -49,12 +49,7 @@ Este archivo será esencial para cargar el firmware adecuado al dispositivo.
     root@linux:~# tar -xVf lede-imagebuilder-17.01.7-ramips-rt305x.Linux-x86_64.tar.xz
     root@linux:~# cd lede-imagebuilder-17.01.7-ramips-rt305x.Linux-x86_64
     
-#
-    root@linux:~#
 
-### Crear imagen
-#
-    root@kali:~#
 Dentro del repositorio descargado con la version de openwrt correspondiente, se ejecutará el siguiente comando:
 #
     root@kali:~# make image PROFILE=a5-v11 PACKAGES="block-mount kmod-usb-storage kmod-usb-core kmod-usb2 kmod-fs-ext4 coreutils-sleep swconfig -ppp-mod-pppoe -ip6tables -luci -ppp -odhcpd-ipv6only -kmod-ip6tables -libuci -ppp" FILES=../default/4MB/
